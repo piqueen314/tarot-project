@@ -1,7 +1,7 @@
 export const cards = [
     {
         name:'The Fool',
-        img:'/images/testImages/maj00.jpg',
+        img:'./images/testImages/maj00.jpg',
         'upright-word':'',
         'upsidedown-word':''
     },
