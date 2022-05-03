@@ -1,0 +1,42 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color:#1D1D2C;
+    color: #EBA63F;
+}
+h1{
+    font-family: 'Arvo', serif; 
+    text-align: center;
+    margin:5%;
+}
+#place-holder-cards{
+    display: flex;
+    justify-content: space-around;
+    
+}
+#place-holder-cards div{
+    border: solid #EBA63F;
+    width: 300px;
+    height:500px;
+  
+}
+#cards{
+    display: flex;
+    justify-content: space-around;
+}
+#cards div{
+    width: 300px;
+    height: auto;
+}
+button{
+    display: block;
+    margin: 3% auto;
+    border: none;
+    text-align: center;
+    width: 25%;
+    padding: 3% 0;
+    background-color: #E40C2B;
+    color: #F7F4E9;
+    font-weight: bold;
+    font-size: medium;
+    
+}
