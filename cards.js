@@ -7,31 +7,31 @@ export const cards = [
     },
     {
         name:'The Magician',
-        img:'/images/testImages/maj01.jpg',
+        img:'./images/testImages/maj01.jpg',
         'upright-word':'',
         'upsidedown-word':''
     },
     {
         name:'The High Priestess',
-        img:'/images/testImages/maj02.jpg',
+        img:'./images/testImages/maj02.jpg',
         'upright-word':'',
         'upsidedown-word':''
     },
     {
         name:'The Empress',
-        img:'/images/testImages/maj03.jpg',
+        img:'./images/testImages/maj03.jpg',
         'upright-word':'',
         'upsidedown-word':''
     },
     {
         name:'The Emperor',
-        img:'/images/testImages/maj04.jpg',
+        img:'./images/testImages/maj04.jpg',
         'upright-word':'',
         'upsidedown-word':''
     },
     {
         name:'The Hierophant',
-        img:'/images/testImages/maj05.jpg',
+        img:'./images/testImages/maj05.jpg',
         'upright-word':'',
         'upsidedown-word':''
     }
